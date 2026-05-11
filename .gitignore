@@ -1,0 +1,15 @@
+node_modules/
+dist/
+build/
+.env
+
+bun.lockb
+
+.DS_Store
+
+coverage/
+
+*.log
+
+.vscode/
+.cursor/
